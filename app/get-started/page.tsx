@@ -28,7 +28,7 @@ export default function GetStartedPage() {
                 What to Expect for Your First Class
               </h2>
               <p className="text-sm sm:text-base text-neutral-300 mb-4">
-                On your first visit, we&apos;ll greet you, show you around the gym,
+                On your first visit, we&apos;ll greet you, show you around the academy,
                 and walk you through what to expect in class. You&apos;ll have time to
                 ask questions and meet your coach before stepping on the mats.
               </p>

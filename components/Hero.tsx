@@ -20,7 +20,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-base sm:text-lg text-neutral-300 max-w-xl mb-8">
-            Train with experienced black belt instruction in a clean, welcoming gym
+            Train with experienced black belt instruction in a clean, welcoming academy
             where kids, teens, and adults build real self‑defense skills, confidence,
             and lasting discipline.
           </p>

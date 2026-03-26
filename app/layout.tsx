@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Kaiju Jiu-Jitsu Middleburg FL | Kids & Adult Brazilian Jiu-Jitsu Classes",
   description:
-    "Train Jiu-Jitsu in a safe, family-friendly gym in Middleburg, FL. Kids, ladies, and adult classes led by experienced black belt instruction. Book your first class at Kaiju Jiu-Jitsu today.",
+    "Train Jiu-Jitsu in a safe, family-friendly academy in Middleburg, FL. Kids, ladies, and adult classes led by experienced black belt instruction. Book your first class at Kaiju Jiu-Jitsu today.",
 };
 
 export default function RootLayout({

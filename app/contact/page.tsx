@@ -78,7 +78,7 @@ export default function ContactPage() {
 
             <div>
               <h2 className="text-lg sm:text-xl font-semibold mb-3">
-                Visit the gym
+                Visit the academy
               </h2>
               <p className="text-sm text-neutral-300 mb-2">
                 Kaiju Jiu-Jitsu
