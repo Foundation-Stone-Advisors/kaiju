@@ -77,8 +77,7 @@ export default function GetStartedPage() {
                     After your first class
                   </h3>
                   <p className="text-sm text-neutral-300">
-                    We&apos;ll check in with you, answer any remaining questions, and
-                    go over membership options if you&apos;d like to continue training.
+                    We&apos;ll check in with you and answer any remaining questions.
                   </p>
                 </div>
               </div>
