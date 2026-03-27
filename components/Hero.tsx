@@ -30,7 +30,7 @@ export default function Hero() {
               href="/get-started"
               className="inline-flex items-center justify-center rounded-full bg-red-600 px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-red-900/40 hover:bg-red-500 transition-colors"
             >
-              Get Started – Book Your First Class
+              Get Started
             </Link>
             <Link
               href="/schedule"
