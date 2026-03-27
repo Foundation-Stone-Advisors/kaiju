@@ -89,7 +89,7 @@ export default function AboutPage() {
                 Meet Your Instructor
               </h2>
               <h3 className="text-base font-semibold text-neutral-200 mb-2">
-                Coach Elijah - Head Instructor &amp; Black Belt
+                Coach Elijah - Head Instructor &amp; First Degree Black Belt
               </h3>
               <p className="text-sm sm:text-base text-neutral-300 mb-4">
                 Coach Elijah has dedicated many years to training and teaching
