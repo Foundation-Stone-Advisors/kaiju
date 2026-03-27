@@ -36,6 +36,13 @@ const classes = [
       "High‑energy classes blending striking fundamentals, footwork, and conditioning for all fitness levels.",
     href: "/classes/boxing",
   },
+  {
+    name: "Homeschool Classes",
+    tag: "Homeschool",
+    description:
+      "Daytime Jiu‑Jitsu classes designed for homeschool students. Kaiju Jiu Jitsu is a Direct Provider through the Step Up For Students Scholarship.",
+    href: "/classes/homeschool",
+  },
 ];
 
 export default function ClassesGrid() {

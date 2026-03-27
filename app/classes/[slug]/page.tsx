@@ -1,7 +1,7 @@
 import Nav from "@/components/Nav";
 import { notFound } from "next/navigation";
 
-type ProgramKey = "fundamentals" | "advanced" | "kids" | "ladies" | "boxing";
+type ProgramKey = "fundamentals" | "advanced" | "kids" | "ladies" | "boxing" | "homeschool";
 
 const programs: Record<
   ProgramKey,
@@ -88,6 +88,21 @@ const programs: Record<
     structure:
       "Classes typically include jump rope or light cardio, technique drills, pad or bag work, and conditioning.",
     ctaLabel: "Try a Boxing class",
+  },
+  homeschool: {
+    name: "Homeschool Classes",
+    audience: "Homeschool students",
+    intro:
+      "Kaiju Jiu Jitsu offers daytime Jiu-Jitsu classes designed specifically for homeschool students. As a Direct Provider through the Step Up For Students Scholarship, we make it easy for qualifying families to use their scholarship funds for martial arts training.",
+    benefits: [
+      "Daytime class schedule tailored for homeschool families.",
+      "Build confidence, discipline, and physical fitness during the school day.",
+      "Learn self-defense and essential life skills in a structured environment.",
+      "Direct Provider through Step Up For Students Scholarship — qualifying families can apply scholarship funds directly.",
+    ],
+    structure:
+      "Classes include a warm-up, age-appropriate technique instruction, partner drilling, and controlled training designed to develop skills progressively.",
+    ctaLabel: "Get started with Homeschool Classes",
   },
 };
 
