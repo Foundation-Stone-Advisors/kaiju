@@ -146,6 +146,7 @@ export default function GetStartedPage() {
                     <option>Fundamentals Jiu-Jitsu</option>
                     <option>Advanced Jiu-Jitsu</option>
                     <option>Boxing</option>
+                    <option>No-Gi Classes</option>
                     <option>Homeschool Classes</option>
                   </select>
                 </div>

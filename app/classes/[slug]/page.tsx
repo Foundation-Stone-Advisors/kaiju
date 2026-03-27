@@ -1,7 +1,7 @@
 import Nav from "@/components/Nav";
 import { notFound } from "next/navigation";
 
-type ProgramKey = "fundamentals" | "advanced" | "kids" | "ladies" | "boxing" | "homeschool";
+type ProgramKey = "fundamentals" | "advanced" | "kids" | "ladies" | "boxing" | "no-gi" | "homeschool";
 
 const programs: Record<
   ProgramKey,
@@ -88,6 +88,21 @@ const programs: Record<
     structure:
       "Classes typically include jump rope or light cardio, technique drills, pad or bag work, and conditioning.",
     ctaLabel: "Try a Boxing class",
+  },
+  "no-gi": {
+    name: "No-Gi Classes",
+    audience: "All experience levels",
+    intro:
+      "No-Gi classes focus on submission grappling without the traditional gi, emphasizing wrestling, leg locks, and fast-paced transitions.",
+    benefits: [
+      "Develop a well-rounded grappling game that translates to any ruleset.",
+      "Improve speed, agility, and scrambling ability.",
+      "Learn modern leg lock systems and wrestling-based takedowns.",
+      "Great complement to gi training or as a standalone discipline.",
+    ],
+    structure:
+      "Classes include a warm-up, technique instruction, positional drilling, and live rolling. Rash guards and grappling shorts are recommended.",
+    ctaLabel: "Get started with No-Gi",
   },
   homeschool: {
     name: "Homeschool Classes",

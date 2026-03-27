@@ -37,6 +37,13 @@ const classes = [
     href: "/classes/boxing",
   },
   {
+    name: "No‑Gi Classes",
+    tag: "No‑Gi",
+    description:
+      "Train without the traditional gi in fast‑paced classes that emphasize wrestling, leg locks, and submission grappling.",
+    href: "/classes/no-gi",
+  },
+  {
     name: "Homeschool Classes",
     tag: "Homeschool",
     description:
