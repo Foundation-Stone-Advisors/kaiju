@@ -13,10 +13,22 @@ export default function GetStartedPage() {
             <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight mb-4">
               Start Your Jiu-Jitsu Journey at Kaiju
             </h1>
+            <p className="text-sm sm:text-base text-neutral-300 max-w-3xl mb-4">
+              At Kaiju Jiu Jitsu, we understand that everyone&apos;s journey begins
+              differently&mdash;that&apos;s why we offer multiple trial options designed
+              to fit your schedule, experience level, and goals. Whether you&apos;re
+              stepping onto the mats for the very first time or looking to find a new
+              academy to call home, we have a path that works for you.
+            </p>
+            <p className="text-sm sm:text-base text-neutral-300 max-w-3xl mb-4">
+              To get started, simply submit your contact information through our form.
+              Once we receive your details, a member of our team will reach out to you
+              shortly to walk you through the available trial options, answer any
+              questions, and help you choose the best fit.
+            </p>
             <p className="text-sm sm:text-base text-neutral-300 max-w-3xl">
-              Whether you&apos;re completely new to Jiu-Jitsu or returning to the mats,
-              we&apos;ll help you find the right class and make your first visit simple
-              and low-pressure.
+              We&apos;re excited to connect with you and help you take the first step
+              in your Jiu Jitsu journey.
             </p>
           </div>
         </section>
@@ -74,11 +86,11 @@ export default function GetStartedPage() {
 
             <div className="rounded-2xl border border-neutral-800 bg-neutral-900/60 p-5">
               <h2 className="text-lg font-semibold mb-2">
-                Book Your First Class
+                Get Started
               </h2>
               <p className="text-sm text-neutral-300 mb-4">
-                Submit this form and we&apos;ll contact you to confirm your first
-                class time and help you choose the best program.
+                Submit your information and a member of our team will reach out
+                to walk you through your trial options.
               </p>
 
               <form className="space-y-4">
@@ -150,7 +162,7 @@ export default function GetStartedPage() {
                   type="button"
                   className="w-full inline-flex items-center justify-center rounded-full bg-red-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-red-500 transition-colors"
                 >
-                  Submit &amp; Book My First Class
+                  Submit
                 </button>
                 <p className="text-[11px] text-neutral-500">
                   We&apos;ll never spam you. We only use your information to help you
